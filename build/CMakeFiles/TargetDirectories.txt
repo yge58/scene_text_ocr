@@ -1,0 +1,3 @@
+/home/yan/project-embedded-sys/sceneTextOCR/build/CMakeFiles/edit_cache.dir
+/home/yan/project-embedded-sys/sceneTextOCR/build/CMakeFiles/rebuild_cache.dir
+/home/yan/project-embedded-sys/sceneTextOCR/build/CMakeFiles/ocr4real.dir
