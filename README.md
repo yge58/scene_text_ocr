@@ -9,7 +9,7 @@ source code based on:
 [1]   openCV text module and sample code
       (http://docs.opencv.org/3.0-beta/modules/text/doc/text.html)
 
-[2]   tesseract API
+[2]   tesseract C++ API
 
 
 # requirements:
